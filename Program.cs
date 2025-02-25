@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            //Demo
             #region Video one
             //[EXtra Information]
             /*Object Relational Mapping (ORM) is a technique used in creating a "bridge" between 
@@ -49,7 +50,7 @@
             //Dapper more Fast 
             #endregion
             #region Video Three
-
+            //Video Three
             #endregion
         }
     }
